@@ -1,0 +1,37 @@
+-- Seed common expense categories
+-- Note: These will be inserted per-user during onboarding, not as shared data
+-- This is just a reference list for the application to use
+
+-- The application will create these categories for each new user with their user_id
+-- Categories (expense):
+-- - Food & Dining (#EF4444)
+-- - Transportation (#F59E0B)
+-- - Shopping (#8B5CF6)
+-- - Entertainment (#EC4899)
+-- - Bills & Utilities (#3B82F6)
+-- - Healthcare (#10B981)
+-- - Education (#6366F1)
+-- - Travel (#14B8A6)
+-- - Personal Care (#F97316)
+-- - Gifts & Donations (#A855F7)
+-- - Insurance (#6B7280)
+-- - Investments (#059669)
+-- - Other Expenses (#64748B)
+
+-- Categories (income):
+-- - Salary (#10B981)
+-- - Business Revenue (#059669)
+-- - Freelance (#14B8A6)
+-- - Investment Returns (#0891B2)
+-- - Gifts Received (#A855F7)
+-- - Refunds (#6366F1)
+-- - Other Income (#64748B)
+
+-- Categories (investment):
+-- - Stocks (#3B82F6)
+-- - Mutual Funds (#8B5CF6)
+-- - Crypto (#F59E0B)
+-- - Real Estate (#059669)
+-- - Business (#6366F1)
+-- - Bonds (#6B7280)
+-- - Other Investments (#64748B)
